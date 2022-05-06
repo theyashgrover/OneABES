@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "226529769325",
+    "project_id": "oneabes-625b7",
+    "storage_bucket": "oneabes-625b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226529769325:android:0a2b5f2ee975da62548c64",
+        "android_client_info": {
+          "package_name": "com.example.oneabes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226529769325-58ndc8a2gr94p5snp52q675gn4069ss2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3UseKgmLzfzqo_AaZy-0Nulj7tmn_on8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226529769325-58ndc8a2gr94p5snp52q675gn4069ss2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

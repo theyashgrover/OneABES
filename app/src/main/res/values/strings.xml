@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">OneABES</string>
+    <string name="appName">OneAbes</string>
+    <string name="tagline">One Stop Solution For The ABES Family</string>
 </resources>
