@@ -12,9 +12,15 @@
         <entry key="..\:/Android/Android_Projects/OneABES/app/src/main/res/drawable/ic_right_arrow.xml" value="0.133" />
         <entry key="..\:/Android/Android_Projects/OneABES/app/src/main/res/font/comfortaa.xml" value="0.23076923076923078" />
         <entry key="..\:/Android/Android_Projects/OneABES/app/src/main/res/font/comfortaa_bold.xml" value="0.23076923076923078" />
+        <entry key="..\:/Android/Android_Projects/OneABES/app/src/main/res/layout/activity_calender.xml" value="0.1" />
         <entry key="..\:/Android/Android_Projects/OneABES/app/src/main/res/layout/activity_login.xml" value="0.11666666666666667" />
-        <entry key="..\:/Android/Android_Projects/OneABES/app/src/main/res/layout/activity_main.xml" value="0.11666666666666667" />
+        <entry key="..\:/Android/Android_Projects/OneABES/app/src/main/res/layout/activity_main.xml" value="0.18" />
         <entry key="..\:/Android/Android_Projects/OneABES/app/src/main/res/layout/activity_register.xml" value="0.11666666666666667" />
+        <entry key="..\:/Android/Android_Projects/OneABES/app/src/main/res/layout/fragment_attendance.xml" value="0.11666666666666667" />
+        <entry key="..\:/Android/Android_Projects/OneABES/app/src/main/res/layout/fragment_events.xml" value="0.11666666666666667" />
+        <entry key="..\:/Android/Android_Projects/OneABES/app/src/main/res/layout/fragment_profile.xml" value="0.11666666666666667" />
+        <entry key="..\:/Android/Android_Projects/OneABES/app/src/main/res/menu/bottom_navigation.xml" value="0.11666666666666667" />
+        <entry key="..\:/Android/Android_Projects/OneABES/app/src/main/res/menu/options_menu.xml" value="0.11666666666666667" />
       </map>
     </option>
   </component>

@@ -42,7 +42,6 @@ public class RegisterActivity extends AppCompatActivity {
 
         mAuth = FirebaseAuth.getInstance();
 
-        Button logout = findViewById(R.id.logout);
 
 
         binding.btnRegister.setOnClickListener(view ->{

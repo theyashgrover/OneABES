@@ -9,6 +9,8 @@
     <color name="white">#FFFFFFFF</color>
     <color name="fui_transparent">#00000000</color>
 
+    <color name="bottom_menu">#f4f3ef</color>
+
     <color name="Primary">#762B2A</color>
     <color name="Secondary">#F3B943</color>
 </resources>
