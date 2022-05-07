@@ -10,6 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.OneABES">
         <activity
+            android:name=".ResultActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AttendanceSimpleTry"
+            android:exported="false" />
+        <activity
             android:name=".Rv_CalenderDate"
             android:exported="false" />
         <activity

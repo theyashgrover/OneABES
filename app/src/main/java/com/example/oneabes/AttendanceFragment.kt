@@ -26,7 +26,7 @@ class AttendanceFragment : Fragment() {
 //            Toast.makeText(
 //                context, "Year=$year Month=$month Day=$dayOfMonth", Toast.LENGTH_LONG
 //            ).show()
-            startActivity(Intent(activity,Rv_CalenderDate::class.java))
+           startActivity(Intent(activity,Rv_CalenderDate::class.java))
         }
         return view
     }

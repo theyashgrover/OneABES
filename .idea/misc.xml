@@ -16,7 +16,15 @@
         <entry key="..\:/Android/Android_Projects/OneABES/app/src/main/res/layout/activity_main.xml" value="0.11666666666666667" />
         <entry key="..\:/Android/Android_Projects/OneABES/app/src/main/res/layout/activity_register.xml" value="0.11666666666666667" />
         <entry key="..\:/Users/user/AndroidStudioProjects/OneABES/app/src/main/res/drawable/ic_vector_white_done_24dp.xml" value="0.219" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/OneABES/app/src/main/res/drawable/rounded_corners.xml" value="0.219" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/OneABES/app/src/main/res/layout/activity_attendance_simple_try.xml" value="0.265625" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/OneABES/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/OneABES/app/src/main/res/layout/activity_result.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/user/AndroidStudioProjects/OneABES/app/src/main/res/layout/activity_rv_calender_date.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/OneABES/app/src/main/res/layout/dialog_custom_back_confirmation.xml" value="0.265625" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/OneABES/app/src/main/res/layout/dialog_custom_back_confirmation2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/OneABES/app/src/main/res/layout/fragment_events.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/OneABES/app/src/main/res/layout/fragment_profile.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/user/AndroidStudioProjects/OneABES/app/src/main/res/layout/list_item.xml" value="0.25416666666666665" />
       </map>
     </option>

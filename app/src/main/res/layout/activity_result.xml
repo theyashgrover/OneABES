@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".ResultActivity"
+    android:gravity="center_horizontal"
+    android:background="@color/white">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar_finish_activity"
+        android:layout_width="match_parent"
+        android:layout_height="?android:attr/actionBarSize"
+        android:background="#FFFFFF"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Chutti Hogyi ;)"
+        android:textColor="@color/Primary"
+        android:textSize="35sp"/>
+    <TextView
+        android:id="@+id/tvEnd"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="sheeeeeeesh"
+        android:textColor="@color/Secondary"
+        android:textAlignment="center"
+        android:textSize="20sp"/>
+
+    <pl.droidsonroids.gif.GifImageView
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:src="@drawable/wohoo"
+        />
+
+    <Button
+        android:id="@+id/btnFinish"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="45dp"
+        android:background="@drawable/rounded_corners"
+        app:backgroundTint="@color/Primary"
+        android:text="@string/finish"
+        android:textColor="@color/Secondary"
+        android:textSize="25sp"
+        android:textAllCaps="false"
+        android:padding="24dp"/>
+</LinearLayout>
