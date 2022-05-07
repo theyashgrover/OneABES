@@ -1,7 +1,31 @@
 <resources>
     <string name="app_name">OneABES</string>
-    <string name="appName">OneAbes</string>
+    <string name="appName">OneABES</string>
     <string name="tagline">One Stop Solution For The ABES Family</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Lecture1">
+      Lecture 1
+    </string>
+    <string name="Lecture2">
+      Lecture 2
+    </string>
+    <string name="Lecture3">
+      Lecture 3
+    </string>
+    <string name="Lecture4">
+      Lecture 4
+    </string>
+    <string name="Lecture5">
+      Lecture 5
+    </string>
+    <string name="Lecture6">
+      Lecture 6
+    </string>
+    <string name="Lecture7">
+      Lecture 7
+    </string>
+    <string name="Lecture8">
+      Lecture 8
+    </string>
 </resources>

@@ -1,37 +1,28 @@
-package com.example.oneabes;
+package com.example.oneabes
 
-import android.content.Intent;
-import android.os.Bundle;
+import android.view.LayoutInflater
+import android.view.ViewGroup
+import android.os.Bundle
+import com.google.firebase.auth.FirebaseAuth
+import android.content.Intent
+import android.view.View
+import androidx.fragment.app.Fragment
+import com.example.oneabes.LoginActivity
+import com.example.oneabes.databinding.FragmentProfileBinding
 
-import androidx.fragment.app.Fragment;
-
-import android.view.LayoutInflater;
-import android.view.View;
-import android.view.ViewGroup;
-
-import com.example.oneabes.databinding.FragmentAttendanceBinding;
-import com.example.oneabes.databinding.FragmentProfileBinding;
-import com.google.firebase.auth.FirebaseAuth;
-
-public class ProfileFragment extends Fragment {
-
-    private FragmentProfileBinding binding;
-
-    @Override
-    public View onCreateView(LayoutInflater inflater, ViewGroup container,
-                             Bundle savedInstanceState) {
+class ProfileFragment : Fragment() {
+    private var binding: FragmentProfileBinding? = null
+    override fun onCreateView(
+        inflater: LayoutInflater, container: ViewGroup?,
+        savedInstanceState: Bundle?
+    ): View? {
         // Inflate the layout for this fragment
-
-        binding = FragmentProfileBinding.inflate(inflater, container, false);
-        View view = binding.getRoot();
-
-        binding.logout.setOnClickListener(view1 -> {
-
-            FirebaseAuth.getInstance().signOut();
-            startActivity(new Intent(getContext(), LoginActivity.class));
-
-        });
-
-        return view;
+        binding = FragmentProfileBinding.inflate(inflater, container, false)
+        val view: View = binding!!.root
+        binding!!.logout.setOnClickListener { view1: View? ->
+            FirebaseAuth.getInstance().signOut()
+            startActivity(Intent(context, LoginActivity::class.java))
+        }
+        return view
     }
 }
